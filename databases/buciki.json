@@ -1,0 +1,224 @@
+{
+  "shoes": [
+    {
+      "name": "jakies buty",
+      "color": "zielony",
+      "brand": "abibas",
+      "pucharsedate": "2022-10-31",
+      "shop": "bazarek",
+      "size": 38,
+      "description": "jade na bazarek kupic troche czasu troche minutek troche godzinek",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "laczki",
+      "color": "zulty",
+      "brand": "guczi",
+      "pucharsedate": "2001-03-13",
+      "shop": "biedronka",
+      "size": 35,
+      "description": "szmexy lacze popierdalacze",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "trampki",
+      "color": "czerwony",
+      "brand": "converse",
+      "pucharsedate": "2021-05-21",
+      "shop": "sklep sportowy",
+      "size": 40,
+      "description": "klasyczne czerwone trampki",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "klapki",
+      "color": "niebieski",
+      "brand": "nike",
+      "pucharsedate": "2023-01-11",
+      "shop": "sklep internetowy",
+      "size": 42,
+      "description": "wygodne klapki na lato",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "szpilki",
+      "color": "czarny",
+      "brand": "prada",
+      "pucharsedate": "2018-12-20",
+      "shop": "dom mody",
+      "size": 37,
+      "description": "eleganckie szpilki na specjalne okazje",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "sneakersy",
+      "color": "bialy",
+      "brand": "adidas",
+      "pucharsedate": "2020-04-15",
+      "shop": "galeria handlowa",
+      "size": 41,
+      "description": "modne sneakersy do codziennego użytku",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "mokasyny",
+      "color": "brązowy",
+      "brand": "clarks",
+      "pucharsedate": "2019-08-23",
+      "shop": "butik",
+      "size": 39,
+      "description": "stylowe mokasyny na co dzień",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "buty trekkingowe",
+      "color": "szary",
+      "brand": "salomon",
+      "pucharsedate": "2022-07-14",
+      "shop": "sklep outdoorowy",
+      "size": 43,
+      "description": "wytrzymałe buty na górskie wędrówki",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "pantofle",
+      "color": "bordowy",
+      "brand": "gucci",
+      "pucharsedate": "2017-09-10",
+      "shop": "ekskluzywny butik",
+      "size": 36,
+      "description": "luksusowe pantofle na wieczorne wyjścia",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "baleriny",
+      "color": "różowy",
+      "brand": "dior",
+      "pucharsedate": "2021-03-05",
+      "shop": "sklep internetowy",
+      "size": 38,
+      "description": "eleganckie baleriny na wiosnę",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "japonki",
+      "color": "zielony",
+      "brand": "havaianas",
+      "pucharsedate": "2020-06-30",
+      "shop": "sklep plażowy",
+      "size": 40,
+      "description": "wygodne japonki na plażę",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "botki",
+      "color": "czarny",
+      "brand": "zara",
+      "pucharsedate": "2023-02-01",
+      "shop": "centrum handlowe",
+      "size": 39,
+      "description": "modne botki na jesień",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "espadryle",
+      "color": "żółty",
+      "brand": "chanel",
+      "pucharsedate": "2019-05-15",
+      "shop": "butik luksusowy",
+      "size": 37,
+      "description": "stylowe espadryle na lato",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "adidasy",
+      "color": "niebieski",
+      "brand": "puma",
+      "pucharsedate": "2018-11-11",
+      "shop": "sklep sportowy",
+      "size": 42,
+      "description": "klasyczne adidasy do biegania",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "kapcie",
+      "color": "brązowy",
+      "brand": "ugg",
+      "pucharsedate": "2021-12-01",
+      "shop": "sklep online",
+      "size": 38,
+      "description": "ciepłe kapcie na zimowe wieczory",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "czółenka",
+      "color": "czerwony",
+      "brand": "louboutin",
+      "pucharsedate": "2017-07-19",
+      "shop": "ekskluzywny butik",
+      "size": 36,
+      "description": "eleganckie czółenka na wieczorne wyjścia",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "kozaki",
+      "color": "czarny",
+      "brand": "timberland",
+      "pucharsedate": "2022-10-31",
+      "shop": "sklep z obuwiem",
+      "size": 43,
+      "description": "wytrzymałe kozaki na zimę",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "sandały",
+      "color": "beżowy",
+      "brand": "birkenstock",
+      "pucharsedate": "2021-06-20",
+      "shop": "sklep internetowy",
+      "size": 40,
+      "description": "wygodne sandały na lato",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "slip-ony",
+      "color": "zielony",
+      "brand": "vans",
+      "pucharsedate": "2019-04-25",
+      "shop": "galeria handlowa",
+      "size": 41,
+      "description": "stylowe slip-ony na co dzień",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    },
+    {
+      "name": "buty do biegania",
+      "color": "pomarańczowy",
+      "brand": "new balance",
+      "pucharsedate": "2023-03-18",
+      "shop": "sklep sportowy",
+      "size": 42,
+      "description": "lekkie buty do biegania",
+      "img": "../../public/kon.jpg",
+      "odnosnik": "#"
+    }
+  ]
+}
